@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_4 Square_cube\Lab_4 Square_cube\bin\Debug\Lab_4 Square_cube.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_4 Square_cube\Lab_4 Square_cube\bin\Debug\Lab_4 Square_cube.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_4 Square_cube\Lab_4 Square_cube\bin\Debug\Lab_4 Square_cube.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_4 Square_cube\Lab_4 Square_cube\obj\Debug\Lab_4 Square_cube.csprojAssemblyReference.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_4 Square_cube\Lab_4 Square_cube\obj\Debug\Lab_4 Square_cube.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_4 Square_cube\Lab_4 Square_cube\obj\Debug\Lab_4 Square_cube.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_4 Square_cube\Lab_4 Square_cube\obj\Debug\Lab_4 Square_cube.pdb
